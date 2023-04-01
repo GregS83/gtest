@@ -1,0 +1,15 @@
+name: gtest
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - plotly
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
