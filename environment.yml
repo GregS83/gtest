@@ -13,4 +13,3 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - voila
