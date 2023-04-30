@@ -1,5 +1,3 @@
 pandas
 plotly
 voila
-jupyter-dash
-dash
